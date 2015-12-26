@@ -1,3 +1,6 @@
+
+#!/usr/bin/env bash
+
 git clone https://github.com/epahomov/docker-spark.git
 cd docker-spark
 ./start-master.sh
